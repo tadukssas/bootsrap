@@ -1,0 +1,34 @@
+.btn {
+    align-items: right;
+    width: 100%;
+}
+
+.but {
+    background-color: black;
+    border-radius: 5px;
+
+}
+
+.blue {
+    background-color: lightblue;
+
+    border-radius: 5px;
+}
+
+.red {
+    background-color: red;
+    border-radius: 5px;
+}
+
+.green {
+    background-color: green;
+    border-radius: 5px;
+}
+
+.ft {
+    width: 4px;
+    display: inline-block;
+    height: 4px;
+}
+
+
